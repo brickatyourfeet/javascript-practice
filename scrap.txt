@@ -1,0 +1,10 @@
+    for(var j = 0; j < Object.keys(store1[i]).length; j++ ){
+          total += 1;
+        }
+        
+        //store1[i][j][2]
+        
+        
+        
+        //make dates variable with store1 obj keys
+        
